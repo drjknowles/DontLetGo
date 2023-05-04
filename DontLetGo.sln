@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontLetGo.CLI", "DontLetGo.CLI\DontLetGo.CLI.csproj", "{F6BE7D2A-040C-41DF-8525-9E1A73E07DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BE7D2A-040C-41DF-8525-9E1A73E07DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BE7D2A-040C-41DF-8525-9E1A73E07DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BE7D2A-040C-41DF-8525-9E1A73E07DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BE7D2A-040C-41DF-8525-9E1A73E07DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC022D79-4B0C-4A8F-A8ED-EC4172525B7B}
+	EndGlobalSection
+EndGlobal
